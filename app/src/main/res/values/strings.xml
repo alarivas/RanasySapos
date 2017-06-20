@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RanasySapos</string>
+    <string name="Jugar">Jugar</string>
+    <string name="options">Opciones</string>
+    <string name="message">Alerta</string>
+    <string name="yes">Sí</string>
+    <string name="no">Menú</string>
+    <string name="back">Volver al juego</string>
+    <string name="dialog_title">Ajustar Volumen</string>
+    <string name="dialog_message">Ajustar Volumen</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="title">Ranas y Sapos</string>
+</resources>
